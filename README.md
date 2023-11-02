@@ -1,3 +1,9 @@
+1. install nextjs
+2. "yarn add moralis react-moralis"
+3. "npm install @web3uikit/core @web3uikit/web3 @web3uikit/icons"
+4. "yarn build" then "yarn next export"
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
